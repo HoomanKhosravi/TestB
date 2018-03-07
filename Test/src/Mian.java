@@ -1,4 +1,4 @@
 
 public class Mian {
-	This main..................
+	This is Main!
 }
